@@ -12,6 +12,7 @@
   * Gradient Color for Button
   * background Color
   * ScrollView, LinearLayout
+  * Button Vibrator (VIBRATOR_SERVICE)
   * etc
   </p>
 </p>
