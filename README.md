@@ -5,5 +5,7 @@
     <br />
     <img src="/screenshot.png" width="80%"/>
     <p align="left">App Features <br/>
+    <h3 align="center">Direct Open Social</h3>
+
   </p>
 </p>
