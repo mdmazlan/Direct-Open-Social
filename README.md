@@ -4,8 +4,15 @@
   <p align="center">This is Direct Open Social Media App. when you Click Button then this Facebook Page or Profile direct Facebook App.<br />
     <br />
     <img src="/screenshot.png" width="80%"/>
-    <p align="left">App Features <br/>
-    <h3 align="center">Direct Open Social</h3>
+    <h3 align="center">App Features</h3>
+    <p align="left"> <br/>
+  
+  
+  * Item 1
+  * Item 2
+  * Item 2a
+  * Item 2b
+
 
   </p>
 </p>
