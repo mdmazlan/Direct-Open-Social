@@ -5,7 +5,7 @@
     <br />
     <img src="/screenshot.png" width="80%"/>
     <h3 align="center">App Features</h3>
-    <p align="left"> <br/>
+    * <p align="left"> TextView <br/>
   
   
   * Item 1
