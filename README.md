@@ -13,6 +13,7 @@
   * background Color
   * ScrollView, LinearLayout
   * Button Vibrator (VIBRATOR_SERVICE)
+  * App Icon
   * etc
   </p>
 </p>
